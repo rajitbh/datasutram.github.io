@@ -1,9 +1,26 @@
 # Data Innovation Labs
 
 ## Problem lists:
-* Estimating the religion & community from a name. You will be provided a sample dataset to train you data. 
-* Estimating connectivity index and development index from Census 2011 Table 
-* Doing an ingredient -community mapping. Estimating which community Consumes what range of products. 
 
-## Datasets
-[Click here](https://github.com/datasutram/datasutram.github.io/tree/master/data)
+
+#### Estimating the religion & community from a name. You will be provided a sample dataset to train you data.
+
+The files you'll need
+* [eithnicuty_ground__truth](https://raw.githubusercontent.com/datasutram/datasutram.github.io/master/data/eithnicuty_ground__truth.csv)
+* [ethnicity_bias](https://raw.githubusercontent.com/datasutram/datasutram.github.io/master/data/ethnicity_bias.csv)
+
+#### Estimating connectivity index and development index from Census 2011 Table
+The files you need
+* [cencus_town](https://raw.githubusercontent.com/datasutram/datasutram.github.io/master/data/cencus_town.csv)
+* [cencus_village](https://raw.githubusercontent.com/datasutram/datasutram.github.io/master/data/cencus_village.csv)
+
+#### Doing an ingredient community mapping. Estimating which community Consumes what range of products.
+The files you need
+* [bengali_dish_recipies](https://raw.githubusercontent.com/datasutram/datasutram.github.io/master/data/bengali_dish_recipies.csv)
+* [chinese_dish_recipies](https://raw.githubusercontent.com/datasutram/datasutram.github.io/master/data/chinese_dish_recipies.csv)
+* [gujrati_dish_recipies](https://raw.githubusercontent.com/datasutram/datasutram.github.io/master/data/gujrati_dish_recipies.csv)
+* [northindian_dish_recipies](https://raw.githubusercontent.com/datasutram/datasutram.github.io/master/data/northindian_dish_recipies.csv)
+## Python Tutorials
+
+* For the ones who know a little bit of coding and wants an overview of python [Click here](http://cs231n.github.io/python-numpy-tutorial/)
+* For the ones who have no idea of what programming is. [CLick here](https://www.programiz.com/python-programming)
