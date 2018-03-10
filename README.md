@@ -16,9 +16,9 @@ The files you need
 
 #### Doing an ingredient community mapping. Estimating which community Consumes what range of products.
 The files you need
-* [bengali_dish_recipies](https://raw.githubusercontent.com/datasutram/datasutram.github.io/master/data/bengali_dish_recipies.csv)
+* [bengali_dish_recipes](https://raw.githubusercontent.com/datasutram/datasutram.github.io/master/data/bengali_dish_recipes.csv)
 * [chinese_dish_recipies](https://raw.githubusercontent.com/datasutram/datasutram.github.io/master/data/chinese_dish_recipies.csv)
-* [gujrati_dish_recipies](https://raw.githubusercontent.com/datasutram/datasutram.github.io/master/data/gujrati_dish_recipies.csv)
+* [gujrati_dish_recipies](https://raw.githubusercontent.com/datasutram/datasutram.github.io/master/data/gujarati_dish_recipies.csv)
 * [northindian_dish_recipies](https://raw.githubusercontent.com/datasutram/datasutram.github.io/master/data/northindian_dish_recipies.csv)
 ## Python Tutorials
 
