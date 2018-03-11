@@ -1,5 +1,9 @@
 # Data Innovation Labs
 
+Please click the link to join our WorkSpace on Slack. - https://join.slack.com/t/datasutram/shared_invite/enQtMzI0NzQzNzI3Njk5LWMzNTFlNGRlZjhkZjY1ZTgyZGRiOGE2ODgzNGY2ZjkzN2NlMzI0NmY0M2YyOTdlYWUwZDdhMjYzMjVhZTJkNmE
+
+Once you register, we would be adding you to our JU Innovation labs channel where you will be updated about everything.
+
 ## Problem lists:
 
 
